@@ -1,0 +1,12 @@
+# Directories
+.vs/
+Project_1/.vs/
+Project_1/x64/
+bin/
+bin-int/
+
+# Files
+*.user
+*.filters
+*.sln
+*.vcxproj
